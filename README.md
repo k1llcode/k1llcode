@@ -11,7 +11,7 @@
 <div id="bio">
   <ul>
     <li>👩‍💻I love coding</li>
-    <li>🌏I speak Russian, English, Japanese</li>
+    <li>🌏I speak Russian, English</li>
     <li>❤My dream - become Fullstack developer</li>
     <li>⚡Learning Web developing since i was 14</li>
     <li>🕊Peace is our everything</li>
